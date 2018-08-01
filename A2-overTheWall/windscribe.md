@@ -11,7 +11,7 @@ typora-copy-images-to: p
 那么如何over the wall呢？
 
 1. 到[这个链接](http://getyangmei.com?v=oWqQ)里，注册就可临时使用1G的流量，根据其文档使用Shadowsocks客户端配置一些数据即可 
-2. 使用我[这个推广](https://windscribe.com/?friend=xgcs9fnm)链接了注册windscribe，你注册成功后每月可以多得1G流量，我也可以多得1G流量。
+2. 使用我[这个推广](https://windscribe.com/?friend=xgcs9fnm)链接注册了windscribe，你注册成功后每月可以多得1G流量，我也可以多得1G流量。
 
 使用windscribe的好处：
 
