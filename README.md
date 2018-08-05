@@ -4,5 +4,5 @@
 - [overTheWall](./A2-overTheWall/windscribe.md)
 - [cloc](./A3-cloc/cloc.md)
 - [git](./A4-git/README.md)
-  - [github](./A4-github/github.md)
+  - [github](./A4-git/github.md)
 
