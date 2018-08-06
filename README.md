@@ -6,4 +6,5 @@
   - [github](./A4-git/github.md)
   - [git](./A4-git/git.md)
 - [sublimeText](./A5-sublimeText/sublimeText.md)
+- [A6-chrome](./A6-chrome/chrome-plug-in.md)
 
