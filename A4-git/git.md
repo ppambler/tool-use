@@ -44,7 +44,7 @@ ps：之前有个 `tree.exe`的命令，所以需要把它拷贝到： `C:\Progr
 
 **➹：**[Git Bash tree（windows）让windows支持tree](http://hisen.me/20170713-Git%20Bash%20tree%EF%BC%88windows%EF%BC%89/)、[tree download](http://gnuwin32.sourceforge.net/packages/tree.htm)
 
-如果有时间，那就看看像使用 `tree.exe`那样，找找没有好用的命令行，**➹：** [GnuWin Packages](http://gnuwin32.sourceforge.net/packages.html)
+如果有时间，那就看看像使用 `tree.exe`那样，找找看有没有好用的命令行工具，**➹：** [GnuWin Packages](http://gnuwin32.sourceforge.net/packages.html)
 
 这里是 `GnuWin`，而Git Bash则是 `MINGW64`，这为啥我可以使用 `tree.exe`？它们之间是有什么联系吗？
 
