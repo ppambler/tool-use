@@ -7,7 +7,8 @@
   - [git](./A4-git/git.md)
   - [git-cmd](./A4-git/git-cmd.md)
 - [sublimeText](./A5-sublimeText/sublimeText.md)
-- A6-chrome
+  - [skill](./A5-sublimeText/skill.md)
+- chrome
   - [chrome-plug-in](./A6-chrome/chrome-plug-in.md)
   - [chrome-link](./A6-chrome/chrome-link.md)
 
