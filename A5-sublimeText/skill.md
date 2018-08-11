@@ -11,7 +11,8 @@ typora-copy-images-to: p
 我知道有个叫beyond compare的工具，听说很强大，说是程序员必备的工具啊！
 
 **➹：**[beyond compare 程序员必备吗，有哪些替代工具 ，有哪些别的工具不能替代的功能？ - 知乎](https://www.zhihu.com/question/54680382)
-我稍微看了一下答案，发现它是收费的哈！我在某个答案中找到有个工具也很强大——[Meld]([http://meldmerge.org/](https://link.zhihu.com/?target=http%3A//meldmerge.org/)) ，当然，因为它是开源的哈！
+
+我稍微看了一下答案，发现它是收费的哈！我在某个答案中找到有个工具也很强大——[Meld](http://meldmerge.org) ，当然，因为它是开源的哈！
 
 为此我下载用了它一下！结果发现，它对比的太详细了，空格字符也比较了！（或许我对它的其它功能没有了解过），这就GG了啊！
 
