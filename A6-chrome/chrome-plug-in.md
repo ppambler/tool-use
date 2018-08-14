@@ -8,7 +8,12 @@ typora-copy-images-to: p
 
 > 我一直都在复制文章标题、链接什么的，觉得这样很繁琐，我就试着找找看有没有可以完成类似工作的插件
 >
-> 结果找到一个[TabCopy](https://chrome.google.com/webstore/search/tabcopy?utm_source=chrome-ntp-icon)，然而我却下载失败了，这不是vpn的原因，我带着这样的关键字搜索 `chrome 插件下载中断`，找到这个链接**➹：**[chrome - chrome商店下载失败(无法连接到服务器) | 下载中断](http://www.echojb.com/web-application-server/2017/04/20/355381.html)
+> 结果找到一个[TabCopy](https://chrome.google.com/webstore/search/tabcopy?utm_source=chrome-ntp-icon)，然而我却下载失败了，这不是vpn的原因。
+
+我带着这样的关键字搜索 `chrome 插件下载中断`
+
+找到这个链接，**✎：**
+**➹：**[chrome - chrome商店下载失败(无法连接到服务器) | 下载中断](http://www.echojb.com/web-application-server/2017/04/20/355381.html)
 
 我就按着它的步骤来：
 
