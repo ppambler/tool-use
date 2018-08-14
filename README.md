@@ -1,4 +1,5 @@
 # [tool-use-2018](https://github.com/ppambler/tool-use-2018)
+
 - [Gitbook使用](./A1-Gitbook/Gitbook入门.md)
 - [overTheWall](./A2-overTheWall/windscribe.md)
 - [cloc](./A3-cloc/cloc.md)
@@ -11,4 +12,8 @@
 - chrome
   - [chrome-plug-in](./A6-chrome/chrome-plug-in.md)
   - [chrome-link](./A6-chrome/chrome-link.md)
+- vscode
+  - [cheat-sheet](./A7-vscode/cheat-sheet.md)
+
+
 

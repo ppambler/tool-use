@@ -38,7 +38,13 @@ typora-copy-images-to: p
 
    ps：我没有找到关于它的[快捷键](https://support.google.com/chrome/answer/157179?hl=zh-Hans)，或许是没有的哈！
 
-   
+## ★TOC
 
+> 当一篇文章过长的时候，而文章又有划分标题的时候，TOC插件就可以创建一个目录，让文章脉路更清晰，使得更容易消化 
 
+**➹：** [Smart TOC](https://chrome.google.com/webstore/detail/smart-toc/lifgeihcfpkmmlfjbailfpfhbahhibba) 
+
+**✎：**
+
+![1534238318173](p/1534238318173.png)
 
