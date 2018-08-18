@@ -9,6 +9,8 @@
   - [git-cmd](./A4-git/git-cmd.md)
 - [sublimeText](./A5-sublimeText/sublimeText.md)
   - [skill](./A5-sublimeText/skill.md)
+  - [plug-in](./A5-sublimeText/plug-in.md)
+  - [cheat-sheet](./A5-sublimeText/cheat-sheet.md)
 - chrome
   - [chrome-plug-in](./A6-chrome/chrome-plug-in.md)
   - [chrome-link](./A6-chrome/chrome-link.md)
