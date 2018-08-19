@@ -11,6 +11,7 @@
   - [skill](./A5-sublimeText/skill.md)
   - [plug-in](./A5-sublimeText/plug-in.md)
   - [cheat-sheet](./A5-sublimeText/cheat-sheet.md)
+  - [user-setting](./A5-sublimeText/user-setting.md)
 - chrome
   - [chrome-plug-in](./A6-chrome/chrome-plug-in.md)
   - [chrome-link](./A6-chrome/chrome-link.md)

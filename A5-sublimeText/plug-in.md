@@ -12,8 +12,6 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 
 拷贝这个Python code ，打开sublime text3，使用快捷键 「Ctrl+`」打开需要粘贴的目标位置console，然后回车即可
 
-![1534524099235](C:/Users/ADMINI~1/AppData/Local/Temp/1534524099235.png)
-
 ## ★Emmet
 
 安装这个[蚂蚁](https://github.com/emmetio/emmet)，怎么装呢？看一下这个，**✎：**
@@ -26,10 +24,6 @@ import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe0
 4. 观察左下角的安装提示，有个`=`在动来动去的话，就是安装进行中；如果安装成功则提示 `successfully`
 
 ps：安装这个插件会自动下载并安装PyV8二进制文件 
-
-**✎：**
-
-![1534526056689](C:/Users/ADMINI~1/AppData/Local/Temp/1534526056689.png)
 
 常用的快捷键，**✎：**
 
@@ -83,4 +77,6 @@ ps：安装这个插件会自动下载并安装PyV8二进制文件
 22. [Tagify](https://packagecontrol.io/packages/Tagify)——为demo添加标签
 23. [JsFormat](https://packagecontrol.io/packages/JsFormat)——格式化JavaScript代码
 24. [SublimeTmpl](https://packagecontrol.io/packages/SublimeTmpl) ——快速生成文件模板 
+25. [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile)——快速创建新文件（C+A+n）
+26. [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts)——找快捷键冲突，直接使用 `C+S+p`输入Find什么的，老实说，英文的说明文档真不好懂，硬伤！
 
