@@ -17,6 +17,8 @@
   - [chrome-link](./A6-chrome/chrome-link.md)
 - vscode
   - [cheat-sheet](./A7-vscode/cheat-sheet.md)
+- [webstorm](./A8-webstorm/README.md)
+  - [settings](./A8-webstorm/settings.md)
 
 
 

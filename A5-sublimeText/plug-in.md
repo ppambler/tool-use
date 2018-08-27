@@ -79,4 +79,5 @@ ps：安装这个插件会自动下载并安装PyV8二进制文件
 24. [SublimeTmpl](https://packagecontrol.io/packages/SublimeTmpl) ——快速生成文件模板 
 25. [AdvancedNewFile](https://packagecontrol.io/packages/AdvancedNewFile)——快速创建新文件（C+A+n）
 26. [FindKeyConflicts](https://packagecontrol.io/packages/FindKeyConflicts)——找快捷键冲突，直接使用 `C+S+p`输入Find什么的，老实说，英文的说明文档真不好懂，硬伤！
+27. [ChineseLocalizations](https://packagecontrol.io/packages/ChineseLocalizations)——汉化插件，可以自定义
 
