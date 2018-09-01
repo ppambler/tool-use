@@ -19,6 +19,10 @@
   - [cheat-sheet](./A7-vscode/cheat-sheet.md)
 - [webstorm](./A8-webstorm/README.md)
   - [settings](./A8-webstorm/settings.md)
+  - [skills](./A8-webstorm/skills.md)
+  - [cheat-sheet](./A8-webstorm/cheat-sheet.md)
+- [node](./A9-node/README.md)
+  - [tools](./A9-node/tools.md)
 
 
 
