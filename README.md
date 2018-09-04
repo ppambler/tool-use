@@ -23,6 +23,8 @@
   - [cheat-sheet](./A8-webstorm/cheat-sheet.md)
 - [node](./A9-node/README.md)
   - [tools](./A9-node/tools.md)
+- [open-source](./B10-open-source-tools/README.md)
+  - [github-tools](./B10-open-source-tools/github-tools.md)
 
 
 
