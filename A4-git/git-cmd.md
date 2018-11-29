@@ -30,7 +30,20 @@ typora-copy-images-to: p
 
    ps：这是提交的时候有空格仅此而已，即语法错了哈！
 
-   
+3. git push报错了「`fatal: The remote end hung up unexpectedly`」，如何解决呢？
+
+   首先你要知道为什么会报错对吧！
+
+   那是因为推送的文件太大
+
+   那么如何解决呢？
+
+   往`~/.gticonfig`中添加提交缓冲大小为500M
+
+   ![1543512828645](p/1543512828645.png)
+
+
+
 
 
 
